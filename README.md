@@ -15,7 +15,7 @@ The **Dumpster diving** is looking for treasure in someone else's trash. In the 
   <img width="400" height="180" src="./img/5.png">
 </p>
 
-# What we need? :smirk:
+# What will we use :question:
 
 * In our study we will use 2 programs, one to create an image of the target disk and the other to analyze this data.
 
